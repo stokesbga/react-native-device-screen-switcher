@@ -9,7 +9,7 @@ const styles = StyleSheet.create({
   buttonText: {padding: 5, color: 'white', backgroundColor: 'rgba(0,0,0,0.5)'},
   outer: {
     flex: 1,
-    backgroundColor: '#003355',
+    backgroundColor: '#FFF',
   },
 });
 
